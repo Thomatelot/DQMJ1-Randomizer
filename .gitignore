@@ -1,0 +1,13 @@
+# Never commit game data (copyrighted)
+*.nds
+*.srl
+root/
+overlay/
+*.bin
+*.enct
+*.bak
+# Tool output
+dqmj_randomizer_error.txt
+spoiler_log.txt
+out/
+__pycache__/
