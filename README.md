@@ -1,4 +1,4 @@
-# DQM Joker Randomizer
+# Dragon Quest Monster Joker 1 Randomizer
 
 A single-file randomizer and difficulty tuner for **Dragon Quest Monsters: Joker** (Nintendo DS, European version).
 Python 3 only, no extra packages, with a simple local web interface or a command line.
@@ -130,7 +130,7 @@ Commands: `gui` (default), `inspect`, `diag`, `randomize`, `restore`, `verify-ro
 
 ## Known limitations
 
-This is a first release, built by reverse engineering on extracted files. Be aware:
+This is a first release, built by reverse engineering, thanks to Claude AI Pro, on extracted files. Be aware:
 
 - **Not exhaustively tested in game.** Wild/trainer/boss randomization and starters were confirmed working by the author's playtesting; the following are **unverified**: the experience field used by the XP controls, the "no idea what to do" fix, the hero look, and the exact behaviour of level-99 bosses.
 - **Not implemented:** synthesis (breeding) randomization, HD textures, playable story characters, dynamic boss scaling.
